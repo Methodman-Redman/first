@@ -19,4 +19,6 @@ docker ps
 # start
 docker start centos1
 
+# net-tools install
+yum install net-tools
 ```
