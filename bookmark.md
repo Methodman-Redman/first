@@ -12,3 +12,12 @@
 
 # Wazuh
 `https://qiita.com/yyojiro/items/6a0bdfc8cf0fc4303233`
+
+# waf
+`https://serverguy.com/security/open-source-web-application-firewall/`
+
+# NIDS
+`https://www.comparitech.com/net-admin/nids-tools-software/`
+
+# HIDS
+`https://www.softwaretestinghelp.com/intrusion-detection-systems/`
