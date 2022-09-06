@@ -82,6 +82,22 @@ setenforce 0
 # https://qiita.com/hanaita0102/items/5d3675e4dc1530b255ba
 ```
 
+# rules
+```bash
+[root@localhost rules]# pwd
+/var/ossec/rules
+[root@localhost rules]# ls
+apache_rules.xml     courier_rules.xml    imapd_rules.xml        ms-se_rules.xml        pam_rules.xml         racoon_rules.xml       squid_rules.xml        trend-osce_rules.xml        web_rules.xml
+apparmor_rules.xml   dovecot_rules.xml    local_rules.xml        mysql_rules.xml        php_rules.xml         roundcube_rules.xml    sshd_rules.xml         unbound_rules.xml           wordpress_rules.xml
+arpwatch_rules.xml   dropbear_rules.xml   mailscanner_rules.xml  named_rules.xml        pix_rules.xml         rules_config.xml       symantec-av_rules.xml  vmpop3d_rules.xml           zeus_rules.xml
+asterisk_rules.xml   firewalld_rules.xml  mcafee_av_rules.xml    netscreenfw_rules.xml  policy_rules.xml      sendmail_rules.xml     symantec-ws_rules.xml  vmware_rules.xml
+attack_rules.xml     firewall_rules.xml   msauth_rules.xml       nginx_rules.xml        postfix_rules.xml     smbd_rules.xml         syslog_rules.xml       vpn_concentrator_rules.xml
+cimserver_rules.xml  ftpd_rules.xml       ms_dhcp_rules.xml      openbsd_rules.xml      postgresql_rules.xml  solaris_bsm_rules.xml  sysmon_rules.xml       vpopmail_rules.xml
+cisco-ios_rules.xml  hordeimp_rules.xml   ms-exchange_rules.xml  opensmtpd_rules.xml    proftpd_rules.xml     sonicwall_rules.xml    systemd_rules.xml      vsftpd_rules.xml
+clam_av_rules.xml    ids_rules.xml        ms_ftpd_rules.xml      ossec_rules.xml        pure-ftpd_rules.xml   spamd_rules.xml        telnetd_rules.xml      web_appsec_rules.xml
+```
+
+
 
 # uninstall
 ```bash
