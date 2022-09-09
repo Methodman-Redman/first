@@ -113,3 +113,5 @@ groupdel ossec
 # https://github.com/ossec/ossec-hids/issues/1025
 # + locate ossec
 ```
+# setting_config
+`https://qiita.com/Diavolo/items/d010020d35b46c556d60`
