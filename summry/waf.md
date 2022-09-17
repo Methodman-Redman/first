@@ -36,6 +36,14 @@ SQL injection
 Common web attacks
 Malicious activity
 
+https://qiita.com/housu_jp/items/1c0204c8cf0ce32a7605  
+OWASP ModSecurity コア ルール セット
+ホワイトリスト
+ブラックリスト
+
+localset
+
+
 ## Shadow Daemon
 
 シャドウデーモンは、悪意のあるパラメータから要求をフィルタリングすることによって、Web攻撃を検出、記録、および防止します。管理を実行し、このWAFを管理できる独自のインターフェイスが付属しています。
@@ -46,3 +54,9 @@ Command injection
 XSS
 Backdoor access
 Local/remote file inclusion
+
+- rules
+- Signatures
+- hwite list
+- black list
+- 学習データからルールを作成
