@@ -80,5 +80,6 @@ Unix、Linux、Cygwin / Windows POSIXシステム
 セキュリティオニオン
 侵入検知・エンドポイント監視などを目的に作られてディストリビューション
 
-
+## signature anomary
+http://www.sql-master.net/articles/SQL1621.html
 
