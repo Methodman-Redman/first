@@ -13,7 +13,7 @@ NSFOCUS IPS
 Network Intelligent Protection (NIP) System  
 
 
-
+https://www.dnsstuff.com/host-based-intrusion-detection-systems　　
 ## HIDS
  SolarWinds Security Event Manager  
  SolarWinds Papertrail  
