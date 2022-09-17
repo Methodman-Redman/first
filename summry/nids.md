@@ -83,3 +83,8 @@ Unix、Linux、Cygwin / Windows POSIXシステム
 ## signature anomary
 http://www.sql-master.net/articles/SQL1621.html
 
+## snort siem
+https://www.web-dev-qa-db-ja.com/ja/snort/snort%E3%81%AA%E3%81%A9%E3%81%AE%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC%E3%82%92alienvault-siem%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F/l958421179/amp/  
+
+## ossec siem
+https://qiita.com/Diavolo/items/d010020d35b46c556d60
