@@ -19,4 +19,30 @@ Alibaba Web Application Firewall
 Cloudbric  
 Symantec Web Application Firewall  
 
+# os
+modsecurity all
+ironbee 
+shadowdaemon PHP, Perl & Python
+naxsi nginx
+webknight iis  
 
+# function
+## mod  
+TrustWaveによるModSecurityは、最も人気のあるWebアプリケーションファイアウォールの1つであり、Apache HTTP、Microsoft IIS、Nginxをサポートしています。
+Cross-site scripting
+Trojan
+Information leakage
+SQL injection
+Common web attacks
+Malicious activity
+
+## Shadow Daemon
+
+シャドウデーモンは、悪意のあるパラメータから要求をフィルタリングすることによって、Web攻撃を検出、記録、および防止します。管理を実行し、このWAFを管理できる独自のインターフェイスが付属しています。
+SQL injection
+XML injection
+Code injection
+Command injection
+XSS
+Backdoor access
+Local/remote file inclusion
