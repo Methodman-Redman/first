@@ -112,3 +112,12 @@ sudo systemctl status snort
 ```bash
 :%s/$ETERNAL...//g
 ```
+
+# mistake plus
+
+`https://qiita.com/Brutus/items/b11c3324492a4e25a152`
+```bash
+# vi /etc/snort/snort.conf
+> include $RULE_PATH/community.rules
+```
+
