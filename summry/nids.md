@@ -24,17 +24,25 @@ OSフィンガープリント
 ポートスキャン  
 SMBプローブ  
 および他の多くの異なる攻撃を検出できます。  
+wiki
+https://en.wikipedia.org/wiki/Snort_(software)
 
 suricata
 シグネチャベース  
 異常ベースの検出方法  
 Snortのデータ構造と互換性があり、利便性を高めるためにSuricata内にSnortポリシーベースを実装することもできます。  
 ネットワーク侵入検知にとどまらず、TLS 証明書、HTTP 要求、および DNS トランザクションの検査  
+wiki
+https://en.wikipedia.org/wiki/Suricata_(software)
 
 Zeek(旧Bro)  
+wiki
+https://en.wikipedia.org/wiki/Zeek
 シグネチャベース  
 異常ベースの検出方法  
 HTTP、DNS、SNMP トラフィック、FTP など、さまざまな OSI レイヤーのさまざまなサービスを追跡する機能を提供します。  
+wiki
+
 
  OpenWIPS-ng  
  ワイヤレスネットワークに特化した無料のオープンソースNIDSであり、WIPSはワイヤレス侵入防止システムの略  
