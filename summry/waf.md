@@ -20,28 +20,28 @@ Cloudbric
 Symantec Web Application Firewall  
 
 # os
-modsecurity all
-ironbee 
-shadowdaemon PHP, Perl & Python
-naxsi nginx
-webknight iis  
+modsecurity all  
+ironbee   
+shadowdaemon PHP, Perl & Python  
+naxsi nginx  
+webknight iis    
 
 # function
 ## mod  
 TrustWaveによるModSecurityは、最も人気のあるWebアプリケーションファイアウォールの1つであり、Apache HTTP、Microsoft IIS、Nginxをサポートしています。
-Cross-site scripting
-Trojan
-Information leakage
-SQL injection
-Common web attacks
-Malicious activity
+Cross-site scripting  
+Trojan  
+Information leakage  
+SQL injection  
+Common web attacks  
+Malicious activity  
 
 https://qiita.com/housu_jp/items/1c0204c8cf0ce32a7605  
-OWASP ModSecurity コア ルール セット
-ホワイトリスト
-ブラックリスト
+OWASP ModSecurity コア ルール セット  
+ホワイトリスト  
+ブラックリスト  
 
-localset
+localset  
 
 
 ## Shadow Daemon
