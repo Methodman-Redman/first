@@ -5,8 +5,18 @@
 `https://en.wikipedia.org/wiki/Trustwave_Holdings`  
 - dirb 50_out
 
-## nodsecurity network
+## modsecurity network(reverce_proxy)
 `https://www.itseclab.jp/security_info/security_intro/modsecurity_construction/`
+- + permission
+- /etc/httpd/conf.d/test2.conf
+```bash
+ServerName 192.168.xx.136
+ProxyRequests Off
+ProxyPass / http://192.168.xx.134/index.html/
+ProxyPassReverse / http://192.168.xx.134/index.html/
+
+```
+
 
 # rules_pass
 ```bash
