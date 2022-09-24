@@ -115,3 +115,6 @@ groupdel ossec
 ```
 # setting_config
 `https://qiita.com/Diavolo/items/d010020d35b46c556d60`
+
+# money type
+`https://www.ossec.net/ossec-downloads/`
