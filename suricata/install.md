@@ -17,4 +17,11 @@ https://suricata.readthedocs.io/en/suricata-6.0.5/install.html　　
 
 https://qiita.com/centos1205/items/47f3e8f58b3d13458a3c
 
+# charenge
+
 https://ja.getdocs.org/how-to-install-suricata-on-centos-8-stream
+
+https://forum.suricata.io/t/guide-getting-started-on-centos-8-and-centos-7/538
+
+# chaina number
+https://otonanswer.jp/post/69875/
