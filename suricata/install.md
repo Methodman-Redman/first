@@ -16,3 +16,5 @@ yum install suricata
 https://suricata.readthedocs.io/en/suricata-6.0.5/install.html　　
 
 https://qiita.com/centos1205/items/47f3e8f58b3d13458a3c
+
+https://ja.getdocs.org/how-to-install-suricata-on-centos-8-stream
