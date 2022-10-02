@@ -121,3 +121,14 @@ groupdel ossec
 
 # config check
 `https://qiita.com/Diavolo/items/d010020d35b46c556d60#:~:text=OSSEC%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B0%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%EF%BC%88%2Fvar%2Fossec%2Fetc%2Fossec.conf%EF%BC%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%201%20%E3%83%A1%E3%83%BC%E3%83%AB%E9%80%9A%E7%9F%A5%E8%A8%AD%E5%AE%9A%20%2Fvar%2Fossec%2Fetc%2Fossec.conf%20...%202%20%E3%83%AB%E3%83%BC%E3%83%AB%E8%A8%AD%E5%AE%9A%20%2Fvar%2Fossec%2Fetc%2Fossec.conf,...%207%20alert%E8%A8%AD%E5%AE%9A%20...%208%20ActiveResponse%E3%81%A7%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%EF%BC%88Shell%EF%BC%89%E3%81%AE%E8%A8%AD%E5%AE%9A%20...%20%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0`
+
+
+```bash
+ <rule id="550" level="7">
+    <category>ossec</category>
+    <decoded_as>syscheck_integrity_changed</decoded_as>
+    <description>Integrity checksum changed.</description>
+    <group>syscheck,</group>
+  </rule>
+
+```
