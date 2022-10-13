@@ -2,7 +2,7 @@
 `https://www.itseclab.jp/security_info/security_intro/elasticstack_construction/`  
 - all 8.x
 
--logstash
+- logstash
 ```
 [elasticsearch-8.x]
 name=Elasticsearch repository for 8.x packages
