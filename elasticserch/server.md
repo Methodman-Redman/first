@@ -13,3 +13,5 @@ enabled=1
 autorefresh=1
 type=rpm-md
 ```
+
+`https://www.creationline.com/blog/h-hibino/39088`
