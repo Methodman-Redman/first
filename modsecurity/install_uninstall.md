@@ -48,3 +48,28 @@ SecRuleEngine Off（←この項目で「On/Off/DetectionOnly）
 
 # dekita
 `https://ai-soldier.work/waf-modsecurity-configuration-rule-file/#`
+
+```
+SecRule REQUEST_URI "abc" "id:1001,phase:2,deny,log,status:200"
+```
+```
+[root@localhost activated_rules]# curl http://localhost?abc
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>200 OK</title>
+</head><body>
+<h1>OK</h1>
+<p>The server encountered an internal error or
+misconfiguration and was unable to complete
+your request.</p>
+<p>Please contact the server administrator at 
+ root@localhost to inform them of the time this error occurred,
+ and the actions you performed just before this error.</p>
+<p>More information about this error may be available
+in the server error log.</p>
+</body></html>
+[root@localhost activated_rules]# 
+
+```
+
+
