@@ -42,3 +42,6 @@ vi /etc/httpd/conf.d/mod_security.conf
 # Default recommended configuration
 SecRuleEngine Off（←この項目で「On/Off/DetectionOnly）
 ```
+
+
+`https://access.redhat.com/documentation/ja-jp/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/proc_adding-a-custom-rule-to-modsecurity_assembly_securing-web-applications-on-a-web-server-using-modsecurity`
