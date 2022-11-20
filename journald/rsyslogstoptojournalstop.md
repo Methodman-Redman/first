@@ -2,6 +2,12 @@
 ## rsyslogstop
 ### jounal
 ```
+Nov 19 21:56:15 ubuntu systemd[1]: Reloading.
+Nov 19 21:56:15 ubuntu systemd-rc-local-generator[26444]: /etc/rc.local is not marked executable, skipping.
+Nov 19 21:56:15 ubuntu systemd[1]: Reloading.
+Nov 19 21:56:16 ubuntu systemd-rc-local-generator[26479]: /etc/rc.local is not marked executable, skipping.
+Nov 19 21:56:16 ubuntu systemd[1]: Reloading.
+Nov 19 21:56:16 ubuntu systemd-rc-local-generator[26525]: /etc/rc.local is not marked executable, skipping.
 Nov 19 21:50:08 ubuntu systemd[1]: Stopping System Logging Service...
 Nov 19 21:50:08 ubuntu rsyslogd[5482]: [origin software="rsyslogd" swVersion="8.2001.0" x-pid="5482" x-info="https://www.rsyslog.com"] exiting on signal 15.
 Nov 19 21:50:08 ubuntu systemd[1]: rsyslog.service: Succeeded.
