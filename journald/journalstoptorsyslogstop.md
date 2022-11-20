@@ -58,8 +58,9 @@ Nov 18 18:54:18 ubuntu systemd[1]: Started Journal Service.
 
 ### syslog
 ```
-## syslog start
+
 ```
+## syslog start
 ### journalctl
 ```
 ov 18 18:55:16 ubuntu systemd[1]: Listening on Syslog Socket.
